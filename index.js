@@ -26,6 +26,6 @@ function iLoveTheBeatles(n){
     soMuchLove.push('I love the Beatles!');
     i++
   }
-  while (i < n);
+  while (i <= n);
   return soMuchLove
 }
