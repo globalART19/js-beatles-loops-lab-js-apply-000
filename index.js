@@ -20,7 +20,7 @@ function iLoveTheBeatles(n){
   var soMuchLove = [];
   var i = 0;
   if (n > 15){
-    n = 0
+    n = 0;
   }
   do {
     soMuchLove.push('I love the Beatles!');
